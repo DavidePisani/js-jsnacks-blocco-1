@@ -14,5 +14,5 @@ for( let i = 0; i < 6; i++){
         oddArrey.push(userNumber)
     }  
 }
-
+// stampo in console
 console.log(oddArrey);
